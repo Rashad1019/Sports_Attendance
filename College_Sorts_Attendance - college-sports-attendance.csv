@@ -1,0 +1,257 @@
+Pos,University,Conference,Sport,Season,Home_Games,Total_Attendance,Average_Attendance
+1,Alabama,SEC,Men's Basketball,2020-21,15,63750,4250
+2,Alabama,SEC,Men's Basketball,2021-22,17,230860,13580
+3,Alabama,SEC,Men's Basketball,2022-23,18,270000,15000
+4,Alabama,SEC,Men's Basketball,2023-24,17,258400,15200
+5,Alabama,SEC,Women's Basketball,2020-21,15,22500,1500
+6,Alabama,SEC,Women's Basketball,2021-22,16,84800,5300
+7,Alabama,SEC,Women's Basketball,2022-23,17,93500,5500
+8,Alabama,SEC,Women's Basketball,2023-24,16,91200,5700
+9,Alabama,SEC,Softball,2020-21,28,28000,1000
+10,Alabama,SEC,Softball,2021-22,27,56700,2100
+11,Alabama,SEC,Softball,2022-23,29,63800,2200
+12,Alabama,SEC,Softball,2023-24,30,69000,2300
+13,Alabama,SEC,Women's Volleyball,2020-21,13,13650,1050
+14,Alabama,SEC,Women's Volleyball,2021-22,14,22400,1600
+15,Alabama,SEC,Women's Volleyball,2022-23,15,25500,1700
+16,Alabama,SEC,Women's Volleyball,2023-24,14,24500,1750
+17,Clemson,ACC,Men's Basketball,2020-21,15,45000,3000
+18,Clemson,ACC,Men's Basketball,2021-22,16,160000,10000
+19,Clemson,ACC,Men's Basketball,2022-23,17,178500,10500
+20,Clemson,ACC,Men's Basketball,2023-24,16,176000,11000
+21,Clemson,ACC,Women's Basketball,2020-21,14,19600,1400
+22,Clemson,ACC,Women's Basketball,2021-22,15,70500,4700
+23,Clemson,ACC,Women's Basketball,2022-23,16,76800,4800
+24,Clemson,ACC,Women's Basketball,2023-24,15,75000,5000
+25,Clemson,ACC,Softball,2020-21,20,16000,800
+26,Clemson,ACC,Softball,2021-22,21,39900,1900
+27,Clemson,ACC,Softball,2022-23,22,44000,2000
+28,Clemson,ACC,Softball,2023-24,23,48300,2100
+29,Clemson,ACC,Women's Volleyball,2020-21,13,16250,1250
+30,Clemson,ACC,Women's Volleyball,2021-22,14,35000,2500
+31,Clemson,ACC,Women's Volleyball,2022-23,15,39000,2600
+32,Clemson,ACC,Women's Volleyball,2023-24,14,37800,2700
+33,Duke,ACC,Men's Basketball,2020-21,15,45000,3000
+34,Duke,ACC,Men's Basketball,2021-22,17,153000,9000
+35,Duke,ACC,Men's Basketball,2022-23,16,160000,10000
+36,Duke,ACC,Men's Basketball,2023-24,18,189000,10500
+37,Duke,ACC,Women's Basketball,2020-21,14,19600,1400
+38,Duke,ACC,Women's Basketball,2021-22,15,73500,4900
+39,Duke,ACC,Women's Basketball,2022-23,16,81600,5100
+40,Duke,ACC,Women's Basketball,2023-24,15,78750,5250
+41,Duke,ACC,Softball,2020-21,20,16000,800
+42,Duke,ACC,Softball,2021-22,21,39900,1900
+43,Duke,ACC,Softball,2022-23,22,44000,2000
+44,Duke,ACC,Softball,2023-24,23,48300,2100
+45,Duke,ACC,Women's Volleyball,2020-21,13,16250,1250
+46,Duke,ACC,Women's Volleyball,2021-22,14,35000,2500
+47,Duke,ACC,Women's Volleyball,2022-23,15,39000,2600
+48,Duke,ACC,Women's Volleyball,2023-24,14,37800,2700
+49,Florida,SEC,Men's Basketball,2020-21,15,63750,4250
+50,Florida,SEC,Men's Basketball,2021-22,16,216000,13500
+51,Florida,SEC,Men's Basketball,2022-23,18,252000,14000
+52,Florida,SEC,Men's Basketball,2023-24,17,246500,14500
+53,Florida,SEC,Women's Basketball,2020-21,15,24000,1600
+54,Florida,SEC,Women's Basketball,2021-22,14,73500,5250
+55,Florida,SEC,Women's Basketball,2022-23,16,88000,5500
+56,Florida,SEC,Women's Basketball,2023-24,15,85500,5700
+57,Florida,SEC,Softball,2020-21,28,30800,1100
+58,Florida,SEC,Softball,2021-22,30,69000,2300
+59,Florida,SEC,Softball,2022-23,29,69600,2400
+60,Florida,SEC,Softball,2023-24,30,75000,2500
+61,Florida,SEC,Women's Volleyball,2020-21,13,14300,1100
+62,Florida,SEC,Women's Volleyball,2021-22,15,26250,1750
+63,Florida,SEC,Women's Volleyball,2022-23,14,25900,1850
+64,Florida,SEC,Women's Volleyball,2023-24,15,28500,1900
+65,Georgia,SEC,Men's Basketball,2020-21,15,60000,4000
+66,Georgia,SEC,Men's Basketball,2021-22,16,208000,13000
+67,Georgia,SEC,Men's Basketball,2022-23,17,229500,13500
+68,Georgia,SEC,Men's Basketball,2023-24,16,224000,14000
+69,Georgia,SEC,Women's Basketball,2020-21,14,21000,1500
+70,Georgia,SEC,Women's Basketball,2021-22,16,80000,5000
+71,Georgia,SEC,Women's Basketball,2022-23,15,78750,5250
+72,Georgia,SEC,Women's Basketball,2023-24,17,93500,5500
+73,Georgia,SEC,Softball,2020-21,27,29700,1100
+74,Georgia,SEC,Softball,2021-22,29,63800,2200
+75,Georgia,SEC,Softball,2022-23,28,64400,2300
+76,Georgia,SEC,Softball,2023-24,30,72000,2400
+77,Georgia,SEC,Women's Volleyball,2020-21,14,14700,1050
+78,Georgia,SEC,Women's Volleyball,2021-22,15,24750,1650
+79,Georgia,SEC,Women's Volleyball,2022-23,14,24500,1750
+80,Georgia,SEC,Women's Volleyball,2023-24,15,27000,1800
+81,Indiana,Big Ten,Men's Basketball,2020-21,15,60000,4000
+82,Indiana,Big Ten,Men's Basketball,2021-22,17,246500,14500
+83,Indiana,Big Ten,Men's Basketball,2022-23,16,240000,15000
+84,Indiana,Big Ten,Men's Basketball,2023-24,18,279000,15500
+85,Indiana,Big Ten,Women's Basketball,2020-21,15,27000,1800
+86,Indiana,Big Ten,Women's Basketball,2021-22,16,88000,5500
+87,Indiana,Big Ten,Women's Basketball,2022-23,17,98600,5800
+88,Indiana,Big Ten,Women's Basketball,2023-24,16,96000,6000
+89,Indiana,Big Ten,Softball,2020-21,21,18900,900
+90,Indiana,Big Ten,Softball,2021-22,22,48400,2200
+91,Indiana,Big Ten,Softball,2022-23,23,52900,2300
+92,Indiana,Big Ten,Softball,2023-24,24,57600,2400
+93,Indiana,Big Ten,Women's Volleyball,2020-21,13,33800,2600
+94,Indiana,Big Ten,Women's Volleyball,2021-22,14,43400,3100
+95,Indiana,Big Ten,Women's Volleyball,2022-23,15,48750,3250
+96,Indiana,Big Ten,Women's Volleyball,2023-24,14,47600,3400
+97,Kansas,Big 12,Men's Basketball,2020-21,15,30000,2000
+98,Kansas,Big 12,Men's Basketball,2021-22,17,272000,16000
+99,Kansas,Big 12,Men's Basketball,2022-23,16,264000,16500
+100,Kansas,Big 12,Men's Basketball,2023-24,18,306000,17000
+101,Kansas,Big 12,Women's Basketball,2020-21,14,19600,1400
+102,Kansas,Big 12,Women's Basketball,2021-22,15,67500,4500
+103,Kansas,Big 12,Women's Basketball,2022-23,16,73600,4600
+104,Kansas,Big 12,Women's Basketball,2023-24,15,72000,4800
+105,Kansas,Big 12,Softball,2020-21,22,19800,900
+106,Kansas,Big 12,Softball,2021-22,23,53590,2330
+107,Kansas,Big 12,Softball,2022-23,24,57600,2400
+108,Kansas,Big 12,Softball,2023-24,25,62500,2500
+109,Kansas,Big 12,Women's Volleyball,2020-21,13,15600,1200
+110,Kansas,Big 12,Women's Volleyball,2021-22,14,35000,2500
+111,Kansas,Big 12,Women's Volleyball,2022-23,15,39000,2600
+112,Kansas,Big 12,Women's Volleyball,2023-24,14,37800,2700
+113,Kentucky,SEC,Men's Basketball,2020-21,15,63750,4250
+114,Kentucky,SEC,Men's Basketball,2021-22,18,261000,14500
+115,Kentucky,SEC,Men's Basketball,2022-23,17,255000,15000
+116,Kentucky,SEC,Men's Basketball,2023-24,16,248000,15500
+117,Kentucky,SEC,Women's Basketball,2020-21,16,25600,1600
+118,Kentucky,SEC,Women's Basketball,2021-22,17,93500,5500
+119,Kentucky,SEC,Women's Basketball,2022-23,15,85500,5700
+120,Kentucky,SEC,Women's Basketball,2023-24,16,94400,5900
+121,Kentucky,SEC,Softball,2020-21,26,28600,1100
+122,Kentucky,SEC,Softball,2021-22,28,64400,2300
+123,Kentucky,SEC,Softball,2022-23,30,72000,2400
+124,Kentucky,SEC,Softball,2023-24,29,72500,2500
+125,Kentucky,SEC,Women's Volleyball,2020-21,13,14300,1100
+126,Kentucky,SEC,Women's Volleyball,2021-22,15,27000,1800
+127,Kentucky,SEC,Women's Volleyball,2022-23,14,26600,1900
+128,Kentucky,SEC,Women's Volleyball,2023-24,15,30000,2000
+129,LSU,SEC,Men's Basketball,2020-21,16,68000,4250
+130,LSU,SEC,Men's Basketball,2021-22,17,229500,13500
+131,LSU,SEC,Men's Basketball,2022-23,16,224000,14000
+132,LSU,SEC,Men's Basketball,2023-24,18,261000,14500
+133,LSU,SEC,Women's Basketball,2020-21,14,22400,1600
+134,LSU,SEC,Women's Basketball,2021-22,15,81000,5400
+135,LSU,SEC,Women's Basketball,2022-23,16,89600,5600
+136,LSU,SEC,Women's Basketball,2023-24,17,97750,5750
+137,LSU,SEC,Softball,2020-21,27,29700,1100
+138,LSU,SEC,Softball,2021-22,29,66700,2300
+139,LSU,SEC,Softball,2022-23,30,72000,2400
+140,LSU,SEC,Softball,2023-24,28,70000,2500
+141,LSU,SEC,Women's Volleyball,2020-21,14,15400,1100
+142,LSU,SEC,Women's Volleyball,2021-22,15,25500,1700
+143,LSU,SEC,Women's Volleyball,2022-23,14,25200,1800
+144,LSU,SEC,Women's Volleyball,2023-24,15,28500,1900
+145,Michigan,Big Ten,Men's Basketball,2020-21,15,60000,4000
+146,Michigan,Big Ten,Men's Basketball,2021-22,17,246500,14500
+147,Michigan,Big Ten,Men's Basketball,2022-23,16,240000,15000
+148,Michigan,Big Ten,Men's Basketball,2023-24,18,279000,15500
+149,Michigan,Big Ten,Women's Basketball,2020-21,14,25200,1800
+150,Michigan,Big Ten,Women's Basketball,2021-22,16,88000,5500
+151,Michigan,Big Ten,Women's Basketball,2022-23,17,96900,5700
+152,Michigan,Big Ten,Women's Basketball,2023-24,15,88500,5900
+153,Michigan,Big Ten,Softball,2020-21,22,19800,900
+154,Michigan,Big Ten,Softball,2021-22,23,50600,2200
+155,Michigan,Big Ten,Softball,2022-23,24,55200,2300
+156,Michigan,Big Ten,Softball,2023-24,25,60000,2400
+157,Michigan,Big Ten,Women's Volleyball,2020-21,13,33800,2600
+158,Michigan,Big Ten,Women's Volleyball,2021-22,14,43400,3100
+159,Michigan,Big Ten,Women's Volleyball,2022-23,15,48750,3250
+160,Michigan,Big Ten,Women's Volleyball,2023-24,14,47600,3400
+161,North Carolina,ACC,Men's Basketball,2020-21,15,45000,3000
+162,North Carolina,ACC,Men's Basketball,2021-22,16,184000,11500
+163,North Carolina,ACC,Men's Basketball,2022-23,17,204000,12000
+164,North Carolina,ACC,Men's Basketball,2023-24,16,200000,12500
+165,North Carolina,ACC,Women's Basketball,2020-21,15,21000,1400
+166,North Carolina,ACC,Women's Basketball,2021-22,16,76800,4800
+167,North Carolina,ACC,Women's Basketball,2022-23,17,85000,5000
+168,North Carolina,ACC,Women's Basketball,2023-24,16,83200,5200
+169,North Carolina,ACC,Softball,2020-21,21,16800,800
+170,North Carolina,ACC,Softball,2021-22,22,41800,1900
+171,North Carolina,ACC,Softball,2022-23,23,46000,2000
+172,North Carolina,ACC,Softball,2023-24,24,50400,2100
+173,North Carolina,ACC,Women's Volleyball,2020-21,14,17500,1250
+174,North Carolina,ACC,Women's Volleyball,2021-22,15,37500,2500
+175,North Carolina,ACC,Women's Volleyball,2022-23,14,36400,2600
+176,North Carolina,ACC,Women's Volleyball,2023-24,15,40500,2700
+177,Ohio State,Big Ten,Men's Basketball,2020-21,15,60000,4000
+178,Ohio State,Big Ten,Men's Basketball,2021-22,16,232000,14500
+179,Ohio State,Big Ten,Men's Basketball,2022-23,17,255000,15000
+180,Ohio State,Big Ten,Men's Basketball,2023-24,16,248000,15500
+181,Ohio State,Big Ten,Women's Basketball,2020-21,15,27000,1800
+182,Ohio State,Big Ten,Women's Basketball,2021-22,16,88000,5500
+183,Ohio State,Big Ten,Women's Basketball,2022-23,15,87000,5800
+184,Ohio State,Big Ten,Women's Basketball,2023-24,17,102000,6000
+185,Ohio State,Big Ten,Softball,2020-21,21,18900,900
+186,Ohio State,Big Ten,Softball,2021-22,22,48400,2200
+187,Ohio State,Big Ten,Softball,2022-23,23,52900,2300
+188,Ohio State,Big Ten,Softball,2023-24,24,57600,2400
+189,Ohio State,Big Ten,Women's Volleyball,2020-21,13,33800,2600
+190,Ohio State,Big Ten,Women's Volleyball,2021-22,15,48000,3200
+191,Ohio State,Big Ten,Women's Volleyball,2022-23,14,46200,3300
+192,Ohio State,Big Ten,Women's Volleyball,2023-24,15,51000,3400
+193,Oklahoma,Big 12,Men's Basketball,2020-21,15,30000,2000
+194,Oklahoma,Big 12,Men's Basketball,2021-22,16,208000,13000
+195,Oklahoma,Big 12,Men's Basketball,2022-23,17,229500,13500
+196,Oklahoma,SEC,Men's Basketball,2023-24,16,224000,14000
+197,Oklahoma,Big 12,Women's Basketball,2020-21,14,19600,1400
+198,Oklahoma,Big 12,Women's Basketball,2021-22,15,70500,4700
+199,Oklahoma,Big 12,Women's Basketball,2022-23,16,76800,4800
+200,Oklahoma,SEC,Women's Basketball,2023-24,15,78750,5250
+201,Oklahoma,Big 12,Softball,2020-21,24,21600,900
+202,Oklahoma,Big 12,Softball,2021-22,25,62500,2500
+203,Oklahoma,Big 12,Softball,2022-23,26,67600,2600
+204,Oklahoma,SEC,Softball,2023-24,27,72900,2700
+205,Oklahoma,Big 12,Women's Volleyball,2020-21,13,15600,1200
+206,Oklahoma,Big 12,Women's Volleyball,2021-22,14,35000,2500
+207,Oklahoma,Big 12,Women's Volleyball,2022-23,15,39000,2600
+208,Oklahoma,SEC,Women's Volleyball,2023-24,14,37800,2700
+209,Penn State,Big Ten,Men's Basketball,2020-21,15,60000,4000
+210,Penn State,Big Ten,Men's Basketball,2021-22,16,224000,14000
+211,Penn State,Big Ten,Men's Basketball,2022-23,17,246500,14500
+212,Penn State,Big Ten,Men's Basketball,2023-24,15,225000,15000
+213,Penn State,Big Ten,Women's Basketball,2020-21,14,25200,1800
+214,Penn State,Big Ten,Women's Basketball,2021-22,15,82500,5500
+215,Penn State,Big Ten,Women's Basketball,2022-23,16,92800,5800
+216,Penn State,Big Ten,Women's Basketball,2023-24,15,90000,6000
+217,Penn State,Big Ten,Softball,2020-21,20,18000,900
+218,Penn State,Big Ten,Softball,2021-22,21,46200,2200
+219,Penn State,Big Ten,Softball,2022-23,22,50600,2300
+220,Penn State,Big Ten,Softball,2023-24,23,55200,2400
+221,Penn State,Big Ten,Women's Volleyball,2020-21,14,39200,2800
+222,Penn State,Big Ten,Women's Volleyball,2021-22,15,51000,3400
+223,Penn State,Big Ten,Women's Volleyball,2022-23,14,49000,3500
+224,Penn State,Big Ten,Women's Volleyball,2023-24,15,54000,3600
+225,Texas,Big 12,Men's Basketball,2020-21,15,30000,2000
+226,Texas,Big 12,Men's Basketball,2021-22,16,224000,14000
+227,Texas,Big 12,Men's Basketball,2022-23,17,246500,14500
+228,Texas,SEC,Men's Basketball,2023-24,16,240000,15000
+229,Texas,Big 12,Women's Basketball,2020-21,15,21000,1400
+230,Texas,Big 12,Women's Basketball,2021-22,16,76800,4800
+231,Texas,Big 12,Women's Basketball,2022-23,17,83300,4900
+232,Texas,SEC,Women's Basketball,2023-24,16,83200,5200
+233,Texas,Big 12,Softball,2020-21,25,22500,900
+234,Texas,Big 12,Softball,2021-22,26,62400,2400
+235,Texas,Big 12,Softball,2022-23,27,67500,2500
+236,Texas,SEC,Softball,2023-24,28,70000,2500
+237,Texas,Big 12,Women's Volleyball,2020-21,14,16800,1200
+238,Texas,Big 12,Women's Volleyball,2021-22,15,42000,2800
+239,Texas,Big 12,Women's Volleyball,2022-23,14,40600,2900
+240,Texas,SEC,Women's Volleyball,2023-24,15,45000,3000
+241,Wisconsin,Big Ten,Men's Basketball,2020-21,15,60000,4000
+242,Wisconsin,Big Ten,Men's Basketball,2021-22,16,232000,14500
+243,Wisconsin,Big Ten,Men's Basketball,2022-23,17,255000,15000
+244,Wisconsin,Big Ten,Men's Basketball,2023-24,16,248000,15500
+245,Wisconsin,Big Ten,Women's Basketball,2020-21,14,25200,1800
+246,Wisconsin,Big Ten,Women's Basketball,2021-22,15,82500,5500
+247,Wisconsin,Big Ten,Women's Basketball,2022-23,16,92800,5800
+248,Wisconsin,Big Ten,Women's Basketball,2023-24,15,90000,6000
+249,Wisconsin,Big Ten,Softball,2020-21,20,18000,900
+250,Wisconsin,Big Ten,Softball,2021-22,21,46200,2200
+251,Wisconsin,Big Ten,Softball,2022-23,22,50600,2300
+252,Wisconsin,Big Ten,Softball,2023-24,23,55200,2400
+253,Wisconsin,Big Ten,Women's Volleyball,2020-21,14,39200,2800
+254,Wisconsin,Big Ten,Women's Volleyball,2021-22,15,54000,3600
+255,Wisconsin,Big Ten,Women's Volleyball,2022-23,14,52500,3750
+256,Wisconsin,Big Ten,Women's Volleyball,2023-24,15,57000,3800

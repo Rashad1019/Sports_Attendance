@@ -1,0 +1,257 @@
+University,Conference,Sport,Season,Home_Games,Total_Attendance,Average_Attendance
+Alabama,SEC,Men's Basketball,2020-21,15,63750,4250
+Alabama,SEC,Men's Basketball,2021-22,17,230860,13580
+Alabama,SEC,Men's Basketball,2022-23,18,270000,15000
+Alabama,SEC,Men's Basketball,2023-24,17,258400,15200
+Alabama,SEC,Women's Basketball,2020-21,15,22500,1500
+Alabama,SEC,Women's Basketball,2021-22,16,84800,5300
+Alabama,SEC,Women's Basketball,2022-23,17,93500,5500
+Alabama,SEC,Women's Basketball,2023-24,16,91200,5700
+Alabama,SEC,Softball,2020-21,28,28000,1000
+Alabama,SEC,Softball,2021-22,27,56700,2100
+Alabama,SEC,Softball,2022-23,29,63800,2200
+Alabama,SEC,Softball,2023-24,30,69000,2300
+Alabama,SEC,Women's Volleyball,2020-21,13,13650,1050
+Alabama,SEC,Women's Volleyball,2021-22,14,22400,1600
+Alabama,SEC,Women's Volleyball,2022-23,15,25500,1700
+Alabama,SEC,Women's Volleyball,2023-24,14,24500,1750
+Georgia,SEC,Men's Basketball,2020-21,15,60000,4000
+Georgia,SEC,Men's Basketball,2021-22,16,208000,13000
+Georgia,SEC,Men's Basketball,2022-23,17,229500,13500
+Georgia,SEC,Men's Basketball,2023-24,16,224000,14000
+Georgia,SEC,Women's Basketball,2020-21,14,21000,1500
+Georgia,SEC,Women's Basketball,2021-22,16,80000,5000
+Georgia,SEC,Women's Basketball,2022-23,15,78750,5250
+Georgia,SEC,Women's Basketball,2023-24,17,93500,5500
+Georgia,SEC,Softball,2020-21,27,29700,1100
+Georgia,SEC,Softball,2021-22,29,63800,2200
+Georgia,SEC,Softball,2022-23,28,64400,2300
+Georgia,SEC,Softball,2023-24,30,72000,2400
+Georgia,SEC,Women's Volleyball,2020-21,14,14700,1050
+Georgia,SEC,Women's Volleyball,2021-22,15,24750,1650
+Georgia,SEC,Women's Volleyball,2022-23,14,24500,1750
+Georgia,SEC,Women's Volleyball,2023-24,15,27000,1800
+Florida,SEC,Men's Basketball,2020-21,15,63750,4250
+Florida,SEC,Men's Basketball,2021-22,16,216000,13500
+Florida,SEC,Men's Basketball,2022-23,18,252000,14000
+Florida,SEC,Men's Basketball,2023-24,17,246500,14500
+Florida,SEC,Women's Basketball,2020-21,15,24000,1600
+Florida,SEC,Women's Basketball,2021-22,14,73500,5250
+Florida,SEC,Women's Basketball,2022-23,16,88000,5500
+Florida,SEC,Women's Basketball,2023-24,15,85500,5700
+Florida,SEC,Softball,2020-21,28,30800,1100
+Florida,SEC,Softball,2021-22,30,69000,2300
+Florida,SEC,Softball,2022-23,29,69600,2400
+Florida,SEC,Softball,2023-24,30,75000,2500
+Florida,SEC,Women's Volleyball,2020-21,13,14300,1100
+Florida,SEC,Women's Volleyball,2021-22,15,26250,1750
+Florida,SEC,Women's Volleyball,2022-23,14,25900,1850
+Florida,SEC,Women's Volleyball,2023-24,15,28500,1900
+LSU,SEC,Men's Basketball,2020-21,16,68000,4250
+LSU,SEC,Men's Basketball,2021-22,17,229500,13500
+LSU,SEC,Men's Basketball,2022-23,16,224000,14000
+LSU,SEC,Men's Basketball,2023-24,18,261000,14500
+LSU,SEC,Women's Basketball,2020-21,14,22400,1600
+LSU,SEC,Women's Basketball,2021-22,15,81000,5400
+LSU,SEC,Women's Basketball,2022-23,16,89600,5600
+LSU,SEC,Women's Basketball,2023-24,17,97750,5750
+LSU,SEC,Softball,2020-21,27,29700,1100
+LSU,SEC,Softball,2021-22,29,66700,2300
+LSU,SEC,Softball,2022-23,30,72000,2400
+LSU,SEC,Softball,2023-24,28,70000,2500
+LSU,SEC,Women's Volleyball,2020-21,14,15400,1100
+LSU,SEC,Women's Volleyball,2021-22,15,25500,1700
+LSU,SEC,Women's Volleyball,2022-23,14,25200,1800
+LSU,SEC,Women's Volleyball,2023-24,15,28500,1900
+Kentucky,SEC,Men's Basketball,2020-21,15,63750,4250
+Kentucky,SEC,Men's Basketball,2021-22,18,261000,14500
+Kentucky,SEC,Men's Basketball,2022-23,17,255000,15000
+Kentucky,SEC,Men's Basketball,2023-24,16,248000,15500
+Kentucky,SEC,Women's Basketball,2020-21,16,25600,1600
+Kentucky,SEC,Women's Basketball,2021-22,17,93500,5500
+Kentucky,SEC,Women's Basketball,2022-23,15,85500,5700
+Kentucky,SEC,Women's Basketball,2023-24,16,94400,5900
+Kentucky,SEC,Softball,2020-21,26,28600,1100
+Kentucky,SEC,Softball,2021-22,28,64400,2300
+Kentucky,SEC,Softball,2022-23,30,72000,2400
+Kentucky,SEC,Softball,2023-24,29,72500,2500
+Kentucky,SEC,Women's Volleyball,2020-21,13,14300,1100
+Kentucky,SEC,Women's Volleyball,2021-22,15,27000,1800
+Kentucky,SEC,Women's Volleyball,2022-23,14,26600,1900
+Kentucky,SEC,Women's Volleyball,2023-24,15,30000,2000
+Michigan,Big Ten,Men's Basketball,2020-21,15,60000,4000
+Michigan,Big Ten,Men's Basketball,2021-22,17,246500,14500
+Michigan,Big Ten,Men's Basketball,2022-23,16,240000,15000
+Michigan,Big Ten,Men's Basketball,2023-24,18,279000,15500
+Michigan,Big Ten,Women's Basketball,2020-21,14,25200,1800
+Michigan,Big Ten,Women's Basketball,2021-22,16,88000,5500
+Michigan,Big Ten,Women's Basketball,2022-23,17,96900,5700
+Michigan,Big Ten,Women's Basketball,2023-24,15,88500,5900
+Michigan,Big Ten,Softball,2020-21,22,19800,900
+Michigan,Big Ten,Softball,2021-22,23,50600,2200
+Michigan,Big Ten,Softball,2022-23,24,55200,2300
+Michigan,Big Ten,Softball,2023-24,25,60000,2400
+Michigan,Big Ten,Women's Volleyball,2020-21,13,33800,2600
+Michigan,Big Ten,Women's Volleyball,2021-22,14,43400,3100
+Michigan,Big Ten,Women's Volleyball,2022-23,15,48750,3250
+Michigan,Big Ten,Women's Volleyball,2023-24,14,47600,3400
+Ohio State,Big Ten,Men's Basketball,2020-21,15,60000,4000
+Ohio State,Big Ten,Men's Basketball,2021-22,16,232000,14500
+Ohio State,Big Ten,Men's Basketball,2022-23,17,255000,15000
+Ohio State,Big Ten,Men's Basketball,2023-24,16,248000,15500
+Ohio State,Big Ten,Women's Basketball,2020-21,15,27000,1800
+Ohio State,Big Ten,Women's Basketball,2021-22,16,88000,5500
+Ohio State,Big Ten,Women's Basketball,2022-23,15,87000,5800
+Ohio State,Big Ten,Women's Basketball,2023-24,17,102000,6000
+Ohio State,Big Ten,Softball,2020-21,21,18900,900
+Ohio State,Big Ten,Softball,2021-22,22,48400,2200
+Ohio State,Big Ten,Softball,2022-23,23,52900,2300
+Ohio State,Big Ten,Softball,2023-24,24,57600,2400
+Ohio State,Big Ten,Women's Volleyball,2020-21,13,33800,2600
+Ohio State,Big Ten,Women's Volleyball,2021-22,15,48000,3200
+Ohio State,Big Ten,Women's Volleyball,2022-23,14,46200,3300
+Ohio State,Big Ten,Women's Volleyball,2023-24,15,51000,3400
+Penn State,Big Ten,Men's Basketball,2020-21,15,60000,4000
+Penn State,Big Ten,Men's Basketball,2021-22,16,224000,14000
+Penn State,Big Ten,Men's Basketball,2022-23,17,246500,14500
+Penn State,Big Ten,Men's Basketball,2023-24,15,225000,15000
+Penn State,Big Ten,Women's Basketball,2020-21,14,25200,1800
+Penn State,Big Ten,Women's Basketball,2021-22,15,82500,5500
+Penn State,Big Ten,Women's Basketball,2022-23,16,92800,5800
+Penn State,Big Ten,Women's Basketball,2023-24,15,90000,6000
+Penn State,Big Ten,Softball,2020-21,20,18000,900
+Penn State,Big Ten,Softball,2021-22,21,46200,2200
+Penn State,Big Ten,Softball,2022-23,22,50600,2300
+Penn State,Big Ten,Softball,2023-24,23,55200,2400
+Penn State,Big Ten,Women's Volleyball,2020-21,14,39200,2800
+Penn State,Big Ten,Women's Volleyball,2021-22,15,51000,3400
+Penn State,Big Ten,Women's Volleyball,2022-23,14,49000,3500
+Penn State,Big Ten,Women's Volleyball,2023-24,15,54000,3600
+Indiana,Big Ten,Men's Basketball,2020-21,15,60000,4000
+Indiana,Big Ten,Men's Basketball,2021-22,17,246500,14500
+Indiana,Big Ten,Men's Basketball,2022-23,16,240000,15000
+Indiana,Big Ten,Men's Basketball,2023-24,18,279000,15500
+Indiana,Big Ten,Women's Basketball,2020-21,15,27000,1800
+Indiana,Big Ten,Women's Basketball,2021-22,16,88000,5500
+Indiana,Big Ten,Women's Basketball,2022-23,17,98600,5800
+Indiana,Big Ten,Women's Basketball,2023-24,16,96000,6000
+Indiana,Big Ten,Softball,2020-21,21,18900,900
+Indiana,Big Ten,Softball,2021-22,22,48400,2200
+Indiana,Big Ten,Softball,2022-23,23,52900,2300
+Indiana,Big Ten,Softball,2023-24,24,57600,2400
+Indiana,Big Ten,Women's Volleyball,2020-21,13,33800,2600
+Indiana,Big Ten,Women's Volleyball,2021-22,14,43400,3100
+Indiana,Big Ten,Women's Volleyball,2022-23,15,48750,3250
+Indiana,Big Ten,Women's Volleyball,2023-24,14,47600,3400
+Wisconsin,Big Ten,Men's Basketball,2020-21,15,60000,4000
+Wisconsin,Big Ten,Men's Basketball,2021-22,16,232000,14500
+Wisconsin,Big Ten,Men's Basketball,2022-23,17,255000,15000
+Wisconsin,Big Ten,Men's Basketball,2023-24,16,248000,15500
+Wisconsin,Big Ten,Women's Basketball,2020-21,14,25200,1800
+Wisconsin,Big Ten,Women's Basketball,2021-22,15,82500,5500
+Wisconsin,Big Ten,Women's Basketball,2022-23,16,92800,5800
+Wisconsin,Big Ten,Women's Basketball,2023-24,15,90000,6000
+Wisconsin,Big Ten,Softball,2020-21,20,18000,900
+Wisconsin,Big Ten,Softball,2021-22,21,46200,2200
+Wisconsin,Big Ten,Softball,2022-23,22,50600,2300
+Wisconsin,Big Ten,Softball,2023-24,23,55200,2400
+Wisconsin,Big Ten,Women's Volleyball,2020-21,14,39200,2800
+Wisconsin,Big Ten,Women's Volleyball,2021-22,15,54000,3600
+Wisconsin,Big Ten,Women's Volleyball,2022-23,14,52500,3750
+Wisconsin,Big Ten,Women's Volleyball,2023-24,15,57000,3800
+Duke,ACC,Men's Basketball,2020-21,15,45000,3000
+Duke,ACC,Men's Basketball,2021-22,17,153000,9000
+Duke,ACC,Men's Basketball,2022-23,16,160000,10000
+Duke,ACC,Men's Basketball,2023-24,18,189000,10500
+Duke,ACC,Women's Basketball,2020-21,14,19600,1400
+Duke,ACC,Women's Basketball,2021-22,15,73500,4900
+Duke,ACC,Women's Basketball,2022-23,16,81600,5100
+Duke,ACC,Women's Basketball,2023-24,15,78750,5250
+Duke,ACC,Softball,2020-21,20,16000,800
+Duke,ACC,Softball,2021-22,21,39900,1900
+Duke,ACC,Softball,2022-23,22,44000,2000
+Duke,ACC,Softball,2023-24,23,48300,2100
+Duke,ACC,Women's Volleyball,2020-21,13,16250,1250
+Duke,ACC,Women's Volleyball,2021-22,14,35000,2500
+Duke,ACC,Women's Volleyball,2022-23,15,39000,2600
+Duke,ACC,Women's Volleyball,2023-24,14,37800,2700
+North Carolina,ACC,Men's Basketball,2020-21,15,45000,3000
+North Carolina,ACC,Men's Basketball,2021-22,16,184000,11500
+North Carolina,ACC,Men's Basketball,2022-23,17,204000,12000
+North Carolina,ACC,Men's Basketball,2023-24,16,200000,12500
+North Carolina,ACC,Women's Basketball,2020-21,15,21000,1400
+North Carolina,ACC,Women's Basketball,2021-22,16,76800,4800
+North Carolina,ACC,Women's Basketball,2022-23,17,85000,5000
+North Carolina,ACC,Women's Basketball,2023-24,16,83200,5200
+North Carolina,ACC,Softball,2020-21,21,16800,800
+North Carolina,ACC,Softball,2021-22,22,41800,1900
+North Carolina,ACC,Softball,2022-23,23,46000,2000
+North Carolina,ACC,Softball,2023-24,24,50400,2100
+North Carolina,ACC,Women's Volleyball,2020-21,14,17500,1250
+North Carolina,ACC,Women's Volleyball,2021-22,15,37500,2500
+North Carolina,ACC,Women's Volleyball,2022-23,14,36400,2600
+North Carolina,ACC,Women's Volleyball,2023-24,15,40500,2700
+Clemson,ACC,Men's Basketball,2020-21,15,45000,3000
+Clemson,ACC,Men's Basketball,2021-22,16,160000,10000
+Clemson,ACC,Men's Basketball,2022-23,17,178500,10500
+Clemson,ACC,Men's Basketball,2023-24,16,176000,11000
+Clemson,ACC,Women's Basketball,2020-21,14,19600,1400
+Clemson,ACC,Women's Basketball,2021-22,15,70500,4700
+Clemson,ACC,Women's Basketball,2022-23,16,76800,4800
+Clemson,ACC,Women's Basketball,2023-24,15,75000,5000
+Clemson,ACC,Softball,2020-21,20,16000,800
+Clemson,ACC,Softball,2021-22,21,39900,1900
+Clemson,ACC,Softball,2022-23,22,44000,2000
+Clemson,ACC,Softball,2023-24,23,48300,2100
+Clemson,ACC,Women's Volleyball,2020-21,13,16250,1250
+Clemson,ACC,Women's Volleyball,2021-22,14,35000,2500
+Clemson,ACC,Women's Volleyball,2022-23,15,39000,2600
+Clemson,ACC,Women's Volleyball,2023-24,14,37800,2700
+Kansas,Big 12,Men's Basketball,2020-21,15,30000,2000
+Kansas,Big 12,Men's Basketball,2021-22,17,272000,16000
+Kansas,Big 12,Men's Basketball,2022-23,16,264000,16500
+Kansas,Big 12,Men's Basketball,2023-24,18,306000,17000
+Kansas,Big 12,Women's Basketball,2020-21,14,19600,1400
+Kansas,Big 12,Women's Basketball,2021-22,15,67500,4500
+Kansas,Big 12,Women's Basketball,2022-23,16,73600,4600
+Kansas,Big 12,Women's Basketball,2023-24,15,72000,4800
+Kansas,Big 12,Softball,2020-21,22,19800,900
+Kansas,Big 12,Softball,2021-22,23,53590,2330
+Kansas,Big 12,Softball,2022-23,24,57600,2400
+Kansas,Big 12,Softball,2023-24,25,62500,2500
+Kansas,Big 12,Women's Volleyball,2020-21,13,15600,1200
+Kansas,Big 12,Women's Volleyball,2021-22,14,35000,2500
+Kansas,Big 12,Women's Volleyball,2022-23,15,39000,2600
+Kansas,Big 12,Women's Volleyball,2023-24,14,37800,2700
+Texas,Big 12,Men's Basketball,2020-21,15,30000,2000
+Texas,Big 12,Men's Basketball,2021-22,16,224000,14000
+Texas,Big 12,Men's Basketball,2022-23,17,246500,14500
+Texas,SEC,Men's Basketball,2023-24,16,240000,15000
+Texas,Big 12,Women's Basketball,2020-21,15,21000,1400
+Texas,Big 12,Women's Basketball,2021-22,16,76800,4800
+Texas,Big 12,Women's Basketball,2022-23,17,83300,4900
+Texas,SEC,Women's Basketball,2023-24,16,83200,5200
+Texas,Big 12,Softball,2020-21,25,22500,900
+Texas,Big 12,Softball,2021-22,26,62400,2400
+Texas,Big 12,Softball,2022-23,27,67500,2500
+Texas,SEC,Softball,2023-24,28,70000,2500
+Texas,Big 12,Women's Volleyball,2020-21,14,16800,1200
+Texas,Big 12,Women's Volleyball,2021-22,15,42000,2800
+Texas,Big 12,Women's Volleyball,2022-23,14,40600,2900
+Texas,SEC,Women's Volleyball,2023-24,15,45000,3000
+Oklahoma,Big 12,Men's Basketball,2020-21,15,30000,2000
+Oklahoma,Big 12,Men's Basketball,2021-22,16,208000,13000
+Oklahoma,Big 12,Men's Basketball,2022-23,17,229500,13500
+Oklahoma,SEC,Men's Basketball,2023-24,16,224000,14000
+Oklahoma,Big 12,Women's Basketball,2020-21,14,19600,1400
+Oklahoma,Big 12,Women's Basketball,2021-22,15,70500,4700
+Oklahoma,Big 12,Women's Basketball,2022-23,16,76800,4800
+Oklahoma,SEC,Women's Basketball,2023-24,15,78750,5250
+Oklahoma,Big 12,Softball,2020-21,24,21600,900
+Oklahoma,Big 12,Softball,2021-22,25,62500,2500
+Oklahoma,Big 12,Softball,2022-23,26,67600,2600
+Oklahoma,SEC,Softball,2023-24,27,72900,2700
+Oklahoma,Big 12,Women's Volleyball,2020-21,13,15600,1200
+Oklahoma,Big 12,Women's Volleyball,2021-22,14,35000,2500
+Oklahoma,Big 12,Women's Volleyball,2022-23,15,39000,2600
+Oklahoma,SEC,Women's Volleyball,2023-24,14,37800,2700
